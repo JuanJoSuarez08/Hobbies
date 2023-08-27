@@ -1,0 +1,19 @@
+.titulo {
+    text-align: center;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    gap: 10px;
+}
+
+.card-img {
+    width: 20rem;
+    height: 20rem;
+}
+
+.card-titulo {
+    text-align: center;
+}
